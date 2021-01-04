@@ -39,3 +39,7 @@ p.more {
 a {
   text-decoration-line: none;
 }
+
+ul {
+  padding: 0px;
+}
