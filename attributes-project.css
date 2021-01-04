@@ -30,4 +30,12 @@ p.more {
   display: none;
 }
 
-/* Write your CSS here. */
+* {
+  font-family: Helvetica Neue, Helvetica, sans-serif;
+  background-color: whitesmoke;
+  color: #464646;
+}
+
+a {
+  text-decoration-line: none;
+}
