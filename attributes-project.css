@@ -43,3 +43,15 @@ a {
 ul {
   padding: 0px;
 }
+
+ul > li {
+  list-style: none;
+}
+
+a:hover, a:visited, a > span:hover, a > span:visited {
+    color: #800080;
+    font-weight: bold;
+}
+
+
+
