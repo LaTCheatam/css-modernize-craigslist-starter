@@ -31,5 +31,36 @@ p.more {
 }
 
 /* Write your CSS here. */
+* {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  background-color: whitesmoke;
+  color: #464646;
+}
 
-make this is a push
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+ul > li {
+  list-style: none;
+}
+
+a:hover,
+a:visited,
+a > span:hover,
+a > span:visited {
+    color: #800080;
+}
+
+a:hover,
+a > span:hover {
+  font-weight: bold;
+}
+
+
+
+
